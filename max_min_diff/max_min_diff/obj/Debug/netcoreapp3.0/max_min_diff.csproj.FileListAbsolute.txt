@@ -1,0 +1,3 @@
+C:\Users\Zamaslie\Desktop\lc101\live_coding\min_max_difference\max_min_diff\max_min_diff\obj\Debug\netcoreapp3.0\max_min_diff.csprojAssemblyReference.cache
+C:\Users\Zamaslie\Desktop\lc101\live_coding\min_max_difference\max_min_diff\max_min_diff\obj\Debug\netcoreapp3.0\max_min_diff.AssemblyInfoInputs.cache
+C:\Users\Zamaslie\Desktop\lc101\live_coding\min_max_difference\max_min_diff\max_min_diff\obj\Debug\netcoreapp3.0\max_min_diff.AssemblyInfo.cs
